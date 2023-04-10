@@ -30,3 +30,4 @@ must have Node.js installed on the machine
 
 
 
+[Gym-Exercises.webm](https://user-images.githubusercontent.com/97196276/230998364-1803e208-28b1-4a5f-8c8f-a8a18e428f47.webm)
